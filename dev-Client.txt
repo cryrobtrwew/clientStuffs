@@ -1,0 +1,4 @@
+ClientVersion: 1.0.1
+BetaVersion: 1.0.1 Beta Build 2
+Beta: true
+InstallerVersion: 0.1
