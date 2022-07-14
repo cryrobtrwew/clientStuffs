@@ -1,0 +1,4 @@
+HWID: (set hwid when time)
+ClientVersion: 1.0.1
+Beta: true
+InstallerVersion: 0.1
