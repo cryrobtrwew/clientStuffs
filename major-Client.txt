@@ -1,0 +1,4 @@
+HWID: (seT)
+ClientVersion: 1.0.1
+Beta: false
+InstallerVersion: 0.1
